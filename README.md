@@ -3,6 +3,8 @@
 Kaggle Facial Expression Recognintion [Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
 
 ## Run
+Download [Facial Expression Recognition Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
+
 * Data preprocess
 ```
 python preprocess_fer2013.py
