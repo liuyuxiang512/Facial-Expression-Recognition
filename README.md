@@ -1,8 +1,8 @@
-* Facial-Expression-Recognition
+# Facial-Expression-Recognition
 
 Kaggle Facial Expression Recognintion Challenge
 
-** Run
+## Run
 * Data preprocess
 ```python preprocess_fer2013.py```
 * Train and evaluate VGG19
