@@ -1,6 +1,6 @@
 # Facial-Expression-Recognition
 
-Kaggle Facial Expression Recognintion [Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
+Kaggle Facial Expression Recognintion Challenge
 
 ## Run
 Download [Facial Expression Recognition Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
@@ -22,3 +22,4 @@ python mainpro_FER.py --model Resnet18 --bs 128 --lr 0.01
 python combine.py --bs 128 --lr 0.01
 ```
 
+Refer to [project](https://github.com/liuyuxiang512/CS420-Bonus) for subsequent adversarial machine learning based on this project.
